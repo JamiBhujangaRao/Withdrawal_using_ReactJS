@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.withdraw-btn {
+  height: 55px;
+  font-size: 32px;
+  font-weight: bold;
+  width: 200px;
+  margin: 10px;
+  background-color: #382f5a;
+  color: #d4d2db;
+  border: 1px solid #c4c4c4;
+  border-radius: 05px;
+  cursor: pointer;
+  outline: none;
+}
+.listed-btn {
+  list-style-type: none;
+}
